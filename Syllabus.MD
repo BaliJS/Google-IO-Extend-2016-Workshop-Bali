@@ -1,4 +1,4 @@
-sive Web App Mini-Workshop Syllabus
+Progresive Web App Mini-Workshop Syllabus
 
 ## Description
 
